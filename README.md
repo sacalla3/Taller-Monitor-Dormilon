@@ -6,7 +6,7 @@
 - David Henao Salazar - A00394033
 
 
-Compilar:
+# Compilar:
 
-javac MonitorDormilonMain.java
-java MonitorDormilonMain
+- javac MonitorDormilonMain.java
+- java MonitorDormilonMain
